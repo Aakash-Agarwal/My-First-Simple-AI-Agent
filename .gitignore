@@ -1,1 +1,4 @@
 venv/
+my-first-simple-ai-code-generator/src/__pycache__/
+my-first-simple-ai-code-generator/src/.pytest_cache/
+my-first-simple-ai-code-generator/src/.mypy_cache/

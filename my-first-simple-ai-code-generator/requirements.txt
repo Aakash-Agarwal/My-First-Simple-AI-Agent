@@ -1,0 +1,4 @@
+langchain
+wikipedia-api
+python-dotenv
+pydantic
